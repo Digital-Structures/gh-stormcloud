@@ -20,7 +20,7 @@ namespace StormCloud
     public class InterOptComponent : GH_Component
     {
 
-        public InterOptComponent(): base("Interactive Optimization", "InterOpt", "Interactive Evolutionary Optimization", "StormCloud", "Optimization")
+        public InterOptComponent(): base("StormCloud", "StormCloud", "Interactive Evolutionary Optimization", "DSE", "StormCloud")
         {
             Score = 0;
             DesignLines = new List<Line>();
@@ -29,6 +29,8 @@ namespace StormCloud
             DesignBreps = new List<Brep>();
             DesignView = new DesignToolVM();
         }
+
+       
 
         // Different geometries owned by the design
         public List<Line> DesignLines;

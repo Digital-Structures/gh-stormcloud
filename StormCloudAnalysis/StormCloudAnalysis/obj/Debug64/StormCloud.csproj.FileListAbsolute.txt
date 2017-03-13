@@ -93,3 +93,19 @@ D:\CTMueller\Digital Structures\Code\stormcloud\StormCloudAnalysis\StormCloudAna
 D:\CTMueller\Digital Structures\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud.csproj.GenerateResource.Cache
 D:\CTMueller\Digital Structures\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud.dll
 D:\CTMueller\Digital Structures\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud.pdb
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\bin\StormCloud.dll
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\bin\StormCloud.pdb
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\bin\MathNet.Numerics.pdb
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\bin\MathNet.Numerics.xml
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud.csprojResolveAssemblyReference.cache
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\DesignControl.g.cs
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloudWindow.g.cs
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud_MarkupCompile.cache
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud_MarkupCompile.lref
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\DesignControl.baml
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloudWindow.baml
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud.g.resources
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud.Properties.Resources.resources
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud.csproj.GenerateResource.Cache
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud.dll
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\StormCloud.pdb

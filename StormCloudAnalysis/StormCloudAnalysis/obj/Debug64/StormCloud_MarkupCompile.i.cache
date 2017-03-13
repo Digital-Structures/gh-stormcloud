@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\CTMueller\Digital Structures\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\
+C:\Code\stormcloud\StormCloudAnalysis\StormCloudAnalysis\obj\Debug64\
 StormCloud
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 2-186508974
 
-201364086842
-17356643621
+20368114043
+17-70019486
 DesignControl.xaml;StormCloudWindow.xaml;
 
 True
